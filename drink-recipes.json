@@ -1,0 +1,107 @@
+{
+  "recipes": [
+    {
+      "name": "Mojito",
+      "description": "Minty and refreshing!",
+      "spirits": [
+        {
+          "name": "White rum",
+          "ounces": 1.5
+        },
+        {
+          "name": "Triple Sec",
+          "ounces": 0.5
+        }
+      ],
+      "mixers": [
+        {
+          "name": "Lime juice",
+          "ounces": 1
+        }
+      ],
+      "garnish": [
+        {
+          "name": "Lime",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Margarita",
+      "description": "Best with tacos!",
+      "spirits": [
+        {
+          "name": "Tequila",
+          "ounces": 2
+        }
+      ],
+      "mixers": [
+        {
+          "name": "Lime juice",
+          "ounces": 1
+        },
+        {
+          "name": "Simple Syrup",
+          "ounces": 1
+        }
+      ],
+      "garnish": [
+        {
+          "name": "Lime",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "G&T",
+      "description": "Okay James bond ;)",
+      "spirits": [
+        {
+          "name": "Gin",
+          "ounces": 2
+        }
+      ],
+      "mixers": [
+        {
+          "name": "Tonic water",
+          "ounces": 1
+        },
+        {
+          "name": "Simple Syrup",
+          "ounces": 0.5
+        }
+      ],
+      "garnish": [
+        {
+          "name": "Lime",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Old Fashioned",
+      "description": "Best enjoyed with a cigar",
+      "spirits": [
+        {
+          "name": "Whiskey",
+          "ounces": 2
+        }
+      ],
+      "mixers": [],
+      "garnish": [
+        {
+          "name": "Dash of Bitters",
+          "quantity": 2
+        },
+        {
+          "name": "Sugar cube",
+          "quantity": 2
+        },
+        {
+          "name": "Orange slice",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
